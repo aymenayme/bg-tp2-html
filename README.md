@@ -23,7 +23,7 @@ Vous allez mettre en pratique ces notions à travers la **création d’une page
    - Créez un compte sur [GitHub].
 
 2. **Clonage du dépôt**
-   - Une fois votre dépôt individuel généré par Classroom, **clonez-le en local** :
+   - Forker ce repo, puis clonez votre dépôt individuel.
      ```bash
      git clone <Lien vers votre repo>.git
      cd nom-du-repo
